@@ -61,7 +61,7 @@ Data Cleaning, Exploratory Data Analysis, SQL Queries, Python, Data Visualizatio
 ![Parking Overview](parking_overview.png)
 
 ### 2. Vehicle Analysis
-![Vehicle Analysis](vehicle_analysis.png)
+![Vehicle Analysis](vehicle_analysis1.png)
 
 ### 3. Parking Operations
 ![Parking Operations](parking_operations.png)
