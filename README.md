@@ -1,4 +1,4 @@
-# Parking Analysis Project
+# Parking Management & Revenue Analysis Project
 
 ## Project Overview
 
